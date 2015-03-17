@@ -17,13 +17,21 @@ Prerequisites to play the game:
 * Ruby installed on your computer.
 * Gosu Library installed on your computer.
 * Powershell installed on you computer.
-* Images and all necessary files that are provided in this library.
+* Images and all necessary files that are provided in this library downloaded in a single directory.
 
 To play this game, just left click where you would like to place your piece. 
 Players will switch automatically. 
 To end the game, left click on the end game button on the top left of the window.
 To skip your turn, left click on the skip button on the top right of the window. 
 To reset the game, press the Space Bar. 
+
+Known Inconveniences
+* In theory, the game should automatically skip a player's turn if he/she doesn not have a valid move. 
+  * It is the responsibility of the player to realize when he/she does not have a valid move and manually skip his/her turn. 
+* In theory, the game should automatically end the game when neither player has a valid move. 
+  * It is the responsibility of the players to realize when neither have a valid move. They must either 
+  * end the game, or skip their turns, which in turn ends the game. 
+
 
 Acknkowledgements and Sources
 
@@ -37,7 +45,7 @@ License Agreement:
 Changes : No changes were made to this image. 
 
 
-Other Graphical Details
+Other Graphical Images
 
 Made by David Palafox using Pixlr's Editor.
 [Named Link] (http://apps.pixlr.com/editor/)
