@@ -4,22 +4,20 @@ This game is Othello. The goal of this game is to convert as many pieces as poss
 to occupy the most spaces on the board with your pieces. 
 In order to convert your opponent's pieces, you must place a piece that surrounds one or more of the opponent's pieces with your own.
 Your move MUST convert AT LEAST 1  of your opponent's piece for it to be a valid move.
-If you cannot make a valid move, you will must skip your turn. If neither player can make a valid move, the game ends. 
+If you cannot make a valid move, you must skip your turn. If neither player can make a valid move, the game is over.  
 
 To run this code: 
-* Download this code, and save as Othello.rb
+* Download this code, and all necessary files.
 * Open Powershell (Windows) or your respective terminal.
-* Change directory to where file resides.
-* Type "./Othello"
+* Change directory to where files reside.
+* Type "./gosu" in the terminal. 
 * Enjoy! :)
-* 
 
-Prerequisites
+Prerequisites to play the game:
 * Ruby installed on your computer.
-* Gosu Library installed on your ocmputer
+* Gosu Library installed on your computer.
 * Powershell installed on you computer.
-* Images that are provided in this library.
-* 
+* Images and all necessary files that are provided in this library.
 
 To play this game, just left click where you would like to place your piece. 
 Players will switch automatically. 
@@ -36,7 +34,7 @@ Link:
 License Agreement:
 [Named Link] (https://creativecommons.org/licenses/by/2.0/legalcode)
 
-Changes : No changes made to the background image. 
+Changes : No changes were made to this image. 
 
 
 Other Graphical Details
